@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Должности",
+      "projection": "ДолжностиЛоL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISCHernyjj1412СотрудникиE",
+  "className": "СотрудникиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "сотрудники1",
+      "modelProjection": "СотрудникиE"
+    }
+  ]
+}

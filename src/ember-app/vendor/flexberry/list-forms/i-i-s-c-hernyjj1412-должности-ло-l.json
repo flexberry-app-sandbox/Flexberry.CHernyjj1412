@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-c-hernyjj1412-должности-ло-e",
+  "editForm": "i-i-s-c-hernyjj1412-должности-ло-e",
+  "external": false,
+  "caption": "Должности ло",
+  "name": "IISCHernyjj1412ДолжностиЛоL",
+  "className": "ДолжностиЛоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "должности",
+      "modelProjection": "ДолжностиЛоL"
+    }
+  ]
+}

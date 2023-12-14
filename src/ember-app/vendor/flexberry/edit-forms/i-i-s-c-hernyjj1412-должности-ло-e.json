@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Должности ло",
+  "name": "IISCHernyjj1412ДолжностиЛоE",
+  "className": "ДолжностиЛоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "должности",
+      "modelProjection": "ДолжностиЛоE"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+docker-compose -p chernyjj1412-java up -d

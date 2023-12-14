@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "C hernyjj1412",
+  "applicationTitle": "C hernyjj1412",
+  "items": [
+    {
+      "link": null,
+      "menuName": "c-hernyjj1412",
+      "caption": "CHernyjj1412",
+      "title": "CHernyjj1412",
+      "children": [
+        {
+          "link": "i-i-s-c-hernyjj1412-должности-ло-l",
+          "menuName": null,
+          "caption": "Должности ло",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-c-hernyjj1412-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
